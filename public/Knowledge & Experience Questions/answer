@@ -1,0 +1,34 @@
+1. - Saat mengalami error yang tidak jelas sumber / lokasi error nya.. solusinya dengan searching internet,
+     tanya groub, testing dengan membuat project lain yang lebih sederhana namun mewakli logika dari erorr yang terjadi
+
+   - Saat ada teknologi baru yang perlu untuk di implementasikan.... solusinya dengan memperlajari dan dibuat studi kasus
+   kedalam project yang baru maupun yang sudah ada
+
+2. Penerapan clean code :
+   - sedikit mungkin variabel, dengan menggunakan ulang variabel yang tidak digunakan / nilai nya berubah
+   - pemisaan code yang bisa dipakai secara umum menjadi beberapa function
+   - code bertumpuk / dijadikan satu baris selama masih dalam lingkup bahasan yang sama
+   - mengikuti PSR
+
+
+3. Belum mengerti mengenai gitflow
+    - Tugas dikerjakan masing-masing, kemudian di gabungkan / merge
+    - Kerjakan tugas-tugas yang paling mendasar dan di fix kan, kecuali ada perubahan darurat
+    - Komunikasi setiap tugas yang ada dalam tim
+    - Sederhananya, kerjaan tugas saya sampai selesai... dan memperhatikan tugas partner satu tim untuk
+    setidaknya dipelajar kalau bisa dibantu
+
+4. Design pattern merupakan pola  / standar / alur kerja / desain struktur kerj ketika mengerjakan sebuah project,,
+   - Salah satunya adalah MCV (Model View Controller) dimana semua tampilan di handle view.. logic aplikasi di Controller,
+   dan seputar database di Model dan harus siap digunakan saat di controller..
+   - Kemudian HMVC (Hirarki .... ) , tetapi belum pernah saya coba
+
+5. Bersedia.
+    - Jika harus remote, pengaturan waktu tentu saya sediakan minimal jam kerja aktif kantor dan tugas project
+    harus selesai sesuai deadline... jika belum maka kerjakan sampai selesai diluar jam kantor...
+    - Biasanya track remote setiap hari dapat di kontrol / lihat oleh tim atau perusahaan.
+    - Masalah komunikasi menyediakan waktu setidaknya 2-3 kali setiap minggu untuk tatap muka / diskusi
+    atau minimal 1 kali setiap minggu untuk diskusi face to face...
+    - Komunikasi setiap hari baik melalui track remote maupun personal message / team message
+    - Komunikasi dan kolaborasi yang bersifat darurat tentu harus siap atau sebisa mungkin tetapi slaing terhubung
+    baik face to face maupun tidak
