@@ -52,7 +52,12 @@ class SearchController extends Controller
             ],
             'query' => ['id' => $request->id],
         ])->getBody();
-        
+
         return $response;
+    }
+
+    public function coba()
+    {
+        return "HALOO";
     }
 }
